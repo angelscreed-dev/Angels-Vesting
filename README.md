@@ -5,7 +5,7 @@
   **Address Owner** : 0x0C7727A86CA540Bcd1526740c4B33167b326Bb78 <br />
 2. 5% Private sale: <br />
   **SmartContract** : 0x2459EE70e768bd2D5bE9945a1A9cD70BE4544d7B <br />
-  **Address Owner** : 0x684c889D174fC5Ff2977781C51DcdE9C20f4ECCf <br />   
+  **Address Owner** : 0xF65A69255172780cBfE8766c12Dd7c2f315C8775 <br />   
 3. 35% In-Game reward/ Network Rewards: <br />
   **SmartContract** : 0x2459EE70e768bd2D5bE9945a1A9cD70BE4544d7B <br />
   **Address Owner** : 0x2F28235D9a3Fd0E2caF9e1Ac93b6663d1cd0992c <br />      
